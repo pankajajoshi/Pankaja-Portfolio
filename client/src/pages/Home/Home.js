@@ -3,9 +3,16 @@ import './home.css';
 
 const Home = () => {
   return (
-    <div>
-        <h1>Home Page</h1>
-    </div>
+    <>
+      <div className="container-fluid home-container">
+        <div className="container home-content">
+
+          <h1>Hi i am PK</h1>
+
+        </div>
+        
+      </div> 
+    </>
   )
 }
 
