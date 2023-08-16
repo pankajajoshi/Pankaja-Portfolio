@@ -1,7 +1,7 @@
 .navbar-profile-pic img {
-    border-radius: 90px;
-    height: 150px;
-    width: 150px;
+    border-radius: 100px;
+    height: 182px;
+    width: 135px;
     display: flex;
     vertical-align: middle;
     margin: 0 auto;
@@ -23,5 +23,5 @@
   }
   .nav-link:hover{
     color: #f29f67;
-    
+
   }
