@@ -6,10 +6,10 @@ const About = () => {
     <>
       <div className="about">
         <div className="row">
-          <div className="col-md-6 col-xl-6 about-img">
+          <div className="col-md-6 col-xl-3 about-img">
             <img src={require("./PK_IMG.jpeg")} alt="profile_pic" />
           </div>
-          <div className="col-md-6 col-xl-6 col-lg-8 col-xs-6 about-content">
+          <div className="col-md-6 col-xl-8 col-lg-8 col-xs-8 about-content">
             {" "}
             <h1>About Me</h1>
             <p>

@@ -20,29 +20,29 @@ const Menus = ({ toggle }) => {
           <div className="nav-items">
             <div className="nav-item">
               <div className="nav-link">
-                <FcHome /> Home
+                <FcHome size={30} /> Home
               </div>
               <div className="nav-link">
-                <FcAbout />
+                <FcAbout size={30} />
                 About
               </div>
               <div className="nav-link">
-                <FcBriefcase /> Work Experience
+                <FcBriefcase size={30} /> Work Experience
               </div>
               <div className="nav-link">
-                <FcAutomatic /> Tech Stack
+                <FcAutomatic size={30} /> Tech Stack
               </div>
               <div className="nav-link">
-                <FcGraduationCap /> Education
+                <FcGraduationCap size={30} /> Education
               </div>
               <div className="nav-link">
-                <FcBullish /> Projects
+                <FcBullish size={30} /> Projects
               </div>
               <div className="nav-link">
-                <FcVoicePresentation /> Testomonials
+                <FcVoicePresentation size={30} /> Testomonials
               </div>
               <div className="nav-link">
-                <FcBusinessContact /> Contact
+                <FcBusinessContact size={30} /> Contact
               </div>
             </div>
           </div>
@@ -52,28 +52,28 @@ const Menus = ({ toggle }) => {
           <div className="nav-items">
             <div className="nav-item">
               <div className="nav-link">
-                <FcHome title="Home" />
+                <FcHome size={30} title="Home" />
               </div>
               <div className="nav-link">
-                <FcAbout title="About" />
+                <FcAbout size={30} title="About" />
               </div>
               <div className="nav-link">
-                <FcBriefcase title="Work Experience" />
+                <FcBriefcase size={30} title="Work Experience" />
               </div>
               <div className="nav-link">
-                <FcAutomatic title="Tech Stack" />
+                <FcAutomatic size={30} title="Tech Stack" />
               </div>
               <div className="nav-link">
-                <FcGraduationCap title="Education" />
+                <FcGraduationCap size={30} title="Education" />
               </div>
               <div className="nav-link">
-                <FcBullish title="Projects" />
+                <FcBullish size={30} title="Projects" />
               </div>
               <div className="nav-link">
-                <FcVoicePresentation title="Testomonials" />
+                <FcVoicePresentation size={30} title="Testomonials" />
               </div>
               <div className="nav-link">
-                <FcBusinessContact title="Contact" />
+                <FcBusinessContact size={30} title="Contact" />
               </div>
             </div>
           </div>
