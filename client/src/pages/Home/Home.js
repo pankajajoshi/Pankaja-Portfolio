@@ -8,7 +8,7 @@ const Home = () => {
     <>
       <div className="container-fluid home-container">
         <div className="container home-content">
-          <h2>Hi 👋 i am PK</h2>
+          <h2>Hi 👋 i am Pankaja/Pearl</h2>
           <h1>
             <Typewriter
               options={{
